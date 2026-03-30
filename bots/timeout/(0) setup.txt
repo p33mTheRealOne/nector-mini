@@ -1,0 +1,14 @@
+Set bot wallet:
+export ANCHOR_WALLET=seller.json
+
+Run shipping timeout bot:
+npx ts-node -T timeout/shipping_timeout.ts
+
+Run confirm timeout bot:
+npx ts-node -T timeout/confirm_timeout.ts
+
+Run confirm discussion bot:
+npx ts-node -T timeout/discussion_timeout.ts
+
+Run confirm respond bot:
+npx ts-node -T timeout/respond_timeout.ts
