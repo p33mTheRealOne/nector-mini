@@ -34,6 +34,9 @@ Built on top of the Nector smart contract, Nector Mini abstracts complex escrow 
 - Fully auditable code
 - Designed for developers who value transparency
 
+## How it Works
+https://nector.chat/docs/nector-mini
+
 ## Getting Started
 ```
 # Clone project:
