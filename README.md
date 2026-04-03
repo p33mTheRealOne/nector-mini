@@ -523,6 +523,16 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=// Your supabase anon key
 SUPABASE_SERVICE_ROLE_KEY=// Your supabase service role key
 ```
 
+Save file
+```
+# exit file
+Ctrl + X
+
+# Press y to save
+
+# Press Enter
+```
+
 ## Run
 ```
 npm run dev
