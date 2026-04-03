@@ -506,7 +506,7 @@ https://localhost:3000/auth/callback
 https://localhost:3000/auth/reset
 ```
 
-Create .env.local
+## Create .env.local
 ```
 # Create file:
 touch .env.local
