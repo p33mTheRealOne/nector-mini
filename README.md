@@ -495,8 +495,27 @@ alter publication supabase_realtime add table public.messages;
 alter publication supabase_realtime add table public.escrow_orders;
 ```
 
+Set Site URL in URL Configuration (Supabase):
+```
+https://localhost:3000
+```
+
+Add Redirect URLs in URL Configuration (Supabase):
+```
+https://localhost:3000/auth/callback
+https://localhost:3000/auth/reset
+```
+
 Create .env.local
-Put this in the file:
+```
+# Create file:
+touch .env.local
+
+# Open .env.local
+sudo nano .env.local
+```
+
+Put this in .env.local
 ```
 NEXT_PUBLIC_SUPABASE_URL=https:// Your supabase url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=// Your supabase anon key
