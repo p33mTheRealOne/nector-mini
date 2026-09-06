@@ -1112,7 +1112,6 @@ https://localhost:3000
 Add Redirect URLs in URL Configuration (Supabase):
 ```
 https://localhost:3000/auth/callback
-https://localhost:3000/auth/reset
 ```
 
 ## Create .env.local
