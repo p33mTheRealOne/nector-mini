@@ -1163,6 +1163,10 @@ NEXT_PUBLIC_SUPABASE_URL=https:// Your supabase url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=// Your supabase anon key
 
 SUPABASE_SERVICE_ROLE_KEY=// Your supabase service role key
+
+SOLANA_RPC_URL=// YOUR_SOLANA_RPC_URL
+
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
 ```
 
 Save file
